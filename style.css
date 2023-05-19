@@ -166,10 +166,10 @@ ul,
   color: var(--primario);
 }
 .mainbar .spec a.rm {
-  color: #fff;
-  background: var(--semi_primario);
+  color: #c4c9ce;
+  background: #313338;
   padding: 5px 15px;
-  border: 1px solid var(--primario);
+  border: 1px solid #2b2d31;
 }
 .sidebar {
   padding: 0;
